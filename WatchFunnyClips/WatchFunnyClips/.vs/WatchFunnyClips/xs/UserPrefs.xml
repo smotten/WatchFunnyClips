@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{3E904A4E-85BB-4DBF-B1DB-7290EEA6E5F6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Controllers/ClipController.cs" Line="17" Column="43" />
+      <File FileName="Models/ClipRepository.cs" Line="18" Column="52" />
+      <File FileName="Models/Clip.cs" />
+      <File FileName="Views/Clip/Index.cshtml" />
+      <File FileName="Models/DbInitializer.cs" />
+      <File FileName="Models/GenreClips.cs" />
+      <File FileName="Views/Clip/Create.cshtml" />
+      <File FileName="Views/Shared/_ClipForm.cshtml" />
+      <File FileName="Models/ViewModels/WatchFunnyClipVM.cs" />
+      <File FileName="Models/ViewModels/ClipVM.cs" />
+      <File FileName="Models/ViewModels/ViewModelCreator.cs" />
+      <File FileName="Startup.cs" Line="34" Column="82" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WatchFunnyClips" expanded="True">
+            <Node name="WatchFunnyClips" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ViewModels" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Clip" expanded="True" />
+                <Node name="GenreClips" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WatchFunnyClips PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClips/Views/Clip/fia52k63.bta~" relfile="Views/Clip/fia52k63.bta~" line="32" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

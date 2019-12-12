@@ -1,0 +1,29 @@
+﻿@using WatchFunnyClips.Models.ViewModels;
+
+@model WatchFunnyClipVM;
+
+    @Html.ValidationSummary()
+    <div>
+        @Html.LabelFor(x => x.Clip.Title)
+        @Html.TextBoxFor(x => x.Clip.Title, new { @class = "form-control" })
+        <span asp-validation-for="Clip.Title" class="text-danger"></span>
+    </div>
+
+    <div>
+        @Html.LabelFor(x => x.Clip.Description)
+        @Html.TextBoxFor(x => x.Clip.Description, new { @class = "form-control" })
+    </div>
+    <div>
+        @Html.LabelFor(x => x.Clip.Url)
+        @Html.TextBoxFor(x => x.Clip.Url, new { @class = "form-control" })
+    </div>
+
+    <div>
+        <select asp-for="Clip.GenreClipsId" asp-items="Model.GenreClipSelectList" class="form-control"> 
+            <option value="">Select something</option> 
+        </select>
+
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Save Clip</button>

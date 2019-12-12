@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{00DD8A8D-B60C-4959-90B9-79A8BEE11268}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WatchFunnyClipsAPI/Startup.cs">
+    <Files>
+      <File FileName="WatchFunnyClipsAPI/Models/Clip.cs" Line="15" Column="1" />
+      <File FileName="WatchFunnyClipsAPI/Startup.cs" Line="35" Column="10" />
+      <File FileName="WatchFunnyClipsAPI/Models/Clip.cs" Line="19" Column="25" />
+      <File FileName="WatchFunnyClipsAPI/Models/WatchFunnyClipsAPIContext.cs" Line="7" Column="95" />
+      <File FileName="WatchFunnyClipsAPI/Controllers/WeatherForecastController.cs" Line="19" Column="31" />
+      <File FileName="WatchFunnyClipsAPI/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WatchFunnyClipsAPI" expanded="True">
+            <Node name="WatchFunnyClipsAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WatchFunnyClipsAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,43 @@
+﻿@model List<Clip>
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<form asp-controller="Clip" asp-action="Index">
+    <p>
+    <a asp-action ="Index" asp-route-id="Animal" class ="btn btn-primary" type="submit" name="submit" value="Animal"> Animal</a>
+    <a asp-action ="Index" asp-route-id="Baby" class="btn btn-primary" type="submit" name="submit" value="Baby"> Baby</a>
+    <a asp-action ="Index" asp-route-id="Random" class="btn btn-primary" type="submit" name="submit" value="Random"> Random</a>
+    <a asp-action ="Index" asp-route-id="Sport" class="btn btn-primary" type="submit" name="submit" value="Sport"> Sport</a>
+    <a asp-action ="Index" asp-route-id="" class="btn btn-primary" type="submit" name="submit" value=""> Show all</a>
+    </p>
+</form>
+
+<div class="container">
+    <div class="row">
+    @foreach(var item in Model)
+    {
+      <div class="card col-12 col-sm-6 col-lg-4 col-xl-4">
+        <iframe class="embed-responsive-item bg-grey border" src="@item.Url" allowfullscreen></iframe>
+        <div class="card-body">
+            <h5 class="card-title">@item.Title</h5>
+            <p class="card-text">@item.Description</p>
+
+            <div class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> 
+                    Edit/Delete
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <a class="dropdown-item" asp-controller="Clip" asp-action="Edit" asp-route-id="@item.ClipId">Edit</a>
+                    <a class="dropdown-item" asp-controller="Clip" asp-action="Delete" asp-route-id="@item.ClipId">Delete</a>
+                </div>
+            </div>
+
+          </div>
+        </div>
+    }
+    </div>
+</div>

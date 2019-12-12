@@ -1,0 +1,211 @@
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/appsettings.json
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/WatchFunnyClipsAPI
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/WatchFunnyClipsAPI.deps.json
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/WatchFunnyClipsAPI.runtimeconfig.json
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/WatchFunnyClipsAPI.runtimeconfig.dev.json
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/WatchFunnyClipsAPI.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/WatchFunnyClipsAPI.pdb
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Bcl.HashCode.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Data.SqlClient.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Options.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Primitives.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Identity.Client.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/System.Collections.Immutable.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/System.ComponentModel.Annotations.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/System.Runtime.Caching.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/sni.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/sni.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/sni.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/WatchFunnyClipsAPI.csprojAssemblyReference.cache
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/staticwebassets/WatchFunnyClipsAPI.StaticWebAssets.Manifest.cache
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/staticwebassets/WatchFunnyClipsAPI.StaticWebAssets.xml
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/WatchFunnyClipsAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/WatchFunnyClipsAPI.AssemblyInfoInputs.cache
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/WatchFunnyClipsAPI.AssemblyInfo.cs
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/WatchFunnyClipsAPI.RazorTargetAssemblyInfo.cache
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/WatchFunnyClipsAPI.csproj.CopyComplete
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/WatchFunnyClipsAPI.dll
+/Users/admin/OneDrive/Datamatiker/DATAMATIKER/4.semester/Net Core/Eksamen/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/WatchFunnyClipsAPI.pdb
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/WatchFunnyClipsAPI.csprojAssemblyReference.cache
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/staticwebassets/WatchFunnyClipsAPI.StaticWebAssets.Manifest.cache
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/staticwebassets/WatchFunnyClipsAPI.StaticWebAssets.xml
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/WatchFunnyClipsAPI.MvcApplicationPartsAssemblyInfo.cs
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/WatchFunnyClipsAPI.MvcApplicationPartsAssemblyInfo.cache
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/WatchFunnyClipsAPI.AssemblyInfoInputs.cache
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/WatchFunnyClipsAPI.AssemblyInfo.cs
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/WatchFunnyClipsAPI.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/WatchFunnyClipsAPI.pdb
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/appsettings.json
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/WatchFunnyClips.Views.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/WatchFunnyClips.Views.pdb
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/WatchFunnyClips
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/WatchFunnyClipsAPI.StaticWebAssets.xml
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/WatchFunnyClipsAPI
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/WatchFunnyClipsAPI.deps.json
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/WatchFunnyClipsAPI.runtimeconfig.json
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/WatchFunnyClipsAPI.runtimeconfig.dev.json
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/WatchFunnyClipsAPI.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/WatchFunnyClipsAPI.pdb
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/AutoMapper.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Bcl.HashCode.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Data.SqlClient.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Data.Sqlite.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.DotNet.PlatformAbstractions.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Memory.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Binder.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyModel.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Options.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Primitives.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.Identity.Client.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/SQLitePCLRaw.batteries_v2.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/SQLitePCLRaw.nativelibrary.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/SQLitePCLRaw.core.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/System.Collections.Immutable.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/System.ComponentModel.Annotations.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/System.Runtime.Caching.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/sni.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/sni.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/sni.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/WatchFunnyClips.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/WatchFunnyClips.pdb
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/WatchFunnyClipsAPI.RazorTargetAssemblyInfo.cache
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/Debug/netcoreapp3.0/WatchFunnyClipsAPI.csproj.CopyComplete
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/NuGet.Frameworks.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/System.Composition.AttributedModel.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/System.Composition.Convention.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/System.Composition.Hosting.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/System.Composition.Runtime.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/System.Composition.TypedParts.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.Razor.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/dotnet-aspnet-codegenerator-design.dll
+/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/bin/Debug/netcoreapp3.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
