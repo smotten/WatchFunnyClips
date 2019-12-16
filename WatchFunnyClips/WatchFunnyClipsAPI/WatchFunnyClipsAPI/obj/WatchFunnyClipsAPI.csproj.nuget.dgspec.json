@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/WatchFunnyClipsAPI.csproj": {}
+    "/home/magnus/Desktop/NetCore/Eksamen git/WatchFunnyClips/WatchFunnyClips/WatchFunnyClipsAPI/WatchFunnyClipsAPI/WatchFunnyClipsAPI.csproj": {}
   },
   "projects": {
-    "/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClips/WatchFunnyClips.csproj": {
+    "/home/magnus/Desktop/NetCore/Eksamen git/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClips/WatchFunnyClips.csproj",
+        "projectUniqueName": "/home/magnus/Desktop/NetCore/Eksamen git/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips.csproj",
         "projectName": "WatchFunnyClips",
-        "projectPath": "/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClips/WatchFunnyClips.csproj",
+        "projectPath": "/home/magnus/Desktop/NetCore/Eksamen git/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips.csproj",
         "packagesPath": "/home/magnus/.nuget/packages/",
-        "outputPath": "/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClips/obj/",
+        "outputPath": "/home/magnus/Desktop/NetCore/Eksamen git/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/magnus/.nuget/NuGet/NuGet.Config"
@@ -39,6 +39,18 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.0, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -81,14 +93,14 @@
         }
       }
     },
-    "/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/WatchFunnyClipsAPI.csproj": {
+    "/home/magnus/Desktop/NetCore/Eksamen git/WatchFunnyClips/WatchFunnyClips/WatchFunnyClipsAPI/WatchFunnyClipsAPI/WatchFunnyClipsAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/WatchFunnyClipsAPI.csproj",
+        "projectUniqueName": "/home/magnus/Desktop/NetCore/Eksamen git/WatchFunnyClips/WatchFunnyClips/WatchFunnyClipsAPI/WatchFunnyClipsAPI/WatchFunnyClipsAPI.csproj",
         "projectName": "WatchFunnyClipsAPI",
-        "projectPath": "/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/WatchFunnyClipsAPI.csproj",
+        "projectPath": "/home/magnus/Desktop/NetCore/Eksamen git/WatchFunnyClips/WatchFunnyClips/WatchFunnyClipsAPI/WatchFunnyClipsAPI/WatchFunnyClipsAPI.csproj",
         "packagesPath": "/home/magnus/.nuget/packages/",
-        "outputPath": "/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/",
+        "outputPath": "/home/magnus/Desktop/NetCore/Eksamen git/WatchFunnyClips/WatchFunnyClips/WatchFunnyClipsAPI/WatchFunnyClipsAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/magnus/.nuget/NuGet/NuGet.Config"
@@ -102,8 +114,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClips/WatchFunnyClips.csproj": {
-                "projectPath": "/home/magnus/Desktop/NetCore/WatchFunnyClips2/WatchFunnyClips/WatchFunnyClips.csproj"
+              "/home/magnus/Desktop/NetCore/Eksamen git/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips.csproj": {
+                "projectPath": "/home/magnus/Desktop/NetCore/Eksamen git/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips.csproj"
               }
             }
           }
