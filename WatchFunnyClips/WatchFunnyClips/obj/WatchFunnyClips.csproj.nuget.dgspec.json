@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/magnus/Desktop/NetCore/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips.csproj": {}
+    "/home/magnus/Desktop/NetCore/Eksamen git/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips.csproj": {}
   },
   "projects": {
-    "/home/magnus/Desktop/NetCore/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips.csproj": {
+    "/home/magnus/Desktop/NetCore/Eksamen git/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/magnus/Desktop/NetCore/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips.csproj",
+        "projectUniqueName": "/home/magnus/Desktop/NetCore/Eksamen git/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips.csproj",
         "projectName": "WatchFunnyClips",
-        "projectPath": "/home/magnus/Desktop/NetCore/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips.csproj",
+        "projectPath": "/home/magnus/Desktop/NetCore/Eksamen git/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips.csproj",
         "packagesPath": "/home/magnus/.nuget/packages/",
-        "outputPath": "/home/magnus/Desktop/NetCore/WatchFunnyClips/WatchFunnyClips/obj/",
+        "outputPath": "/home/magnus/Desktop/NetCore/Eksamen git/WatchFunnyClips/WatchFunnyClips/WatchFunnyClips/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/magnus/.nuget/NuGet/NuGet.Config"
